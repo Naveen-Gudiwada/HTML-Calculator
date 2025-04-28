@@ -32,7 +32,7 @@ This project does not have any external dependencies. It works with basic HTML, 
 
 ## Preview
 
-![Calculator Preview](images/calculator-preview.png)
+![Calculator Preview](calculator-preview.png)
 
 ## Acknowledgments
 - This project was created for educational purposes.
